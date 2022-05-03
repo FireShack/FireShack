@@ -1,4 +1,4 @@
-# Hi, i'm Franco!
+# Hi, i'm Franco! :raising_hand_man:
 
 ### Let's start with a presentation. Who i am? :question:
 
@@ -12,7 +12,7 @@ Born in Argentina :argentina: but live in Italy 🇮🇹
 ### What languages do you speak? :question:
 I speak in three languages. Posso parlare in italiano, en español or in english. I can use them completly fluently!  
 
-## After that, where i'm now?
+## After that, where i'm now? :bulb:
 Now i'm coding every single day with JavaScript's and TypeScript's ecosystem, from front to back. 
 I'm working to become a very completly fullstack developer.  
 
@@ -42,6 +42,6 @@ I'm working to become a very completly fullstack developer.
 **And much more!**
 
 I love to collaborate with other people, so if you want a member for your team, please contact me to my email: 
-_francoguardini10@gmail.com_
+:envelope: _francoguardini10@gmail.com_
 
 Good code!
