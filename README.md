@@ -22,6 +22,8 @@ I'm working to become a very completly fullstack developer.
 - JavaScript
 - TypeScript
 - Python
+- HTML
+- CSS
 
 ### JavaScript & TypeScript ecosystem
 - React js
