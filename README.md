@@ -43,7 +43,7 @@ I'm working to become a very completly fullstack developer.
 
 **And much more!**
 
-I love to collaborate with other people, so if you want a member for your team, please contact me to my email: 
+I love to collaborate with other people, so if you want a member for your team, please email me at: 
 - :envelope: _francoguardini10@gmail.com_
 
 Good code!
